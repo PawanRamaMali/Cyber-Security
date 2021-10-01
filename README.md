@@ -18,8 +18,33 @@ Canary tokens, also known as honeytokens, are not new but can be useful as a sou
 </details>
 
 
-### Goals and Learning Objectives 
+<!-- faq 2 -->
+<details>
+<summary> ### Goals and Learning Objectives  </summary>
+<br/>
+  
+
 
 ![image](https://user-images.githubusercontent.com/11299574/135600295-d462094d-2bba-49e6-8981-343a787193a9.png)
+  
+---
+</details>
 
+
+
+
+<!-- faq 3 -->
+<details>
+<summary> ### Study Recommendation  </summary>
+<br/>
+  
+
+  
+ 
+
+![image](https://user-images.githubusercontent.com/11299574/135603036-276842d4-55d3-47a5-a30e-c5d295bac533.png)
+
+  
+---
+</details>
 
