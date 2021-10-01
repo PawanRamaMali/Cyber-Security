@@ -55,4 +55,20 @@ Canary tokens, also known as honeytokens, are not new but can be useful as a sou
 </details>
 
 
+<!-- faq 4 -->
+<details>
+<summary> What is Pseudonymity ? </summary>
+<br/>
+  
+Anonymity means that an individual dealing with an APP entity cannot be identified and the entity does not collect personal information or identifiers. A pseudonym is a name, term or descriptor that is different to an individual's actual name.
+  
+Pseudonymity is the near-anonymous state in which a user has a consistent identifier that is not their real name: a pseudonym.
+  
+  
+  
+---
+</details>
+
+
+
 
