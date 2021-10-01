@@ -4,23 +4,10 @@ Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking, Learn IT 
 
 
 
-<!-- faq 1 -->
-<details>
-<summary> What are CanaryTokens ? </summary>
-<br/>
-  
-Canary tokens, also known as honeytokens, are not new but can be useful as a source of information. They can be understood as unique identifiers that can be embedded in different places. If they are touched, an alert is triggered.
-  
-  Example : https://whiteclouddrive.com/generate 
-  
-  
----
-</details>
-
 
 <!-- faq 2 -->
 <details>
-<summary> ### Goals and Learning Objectives  </summary>
+<summary>  Goals and Learning Objectives  </summary>
 <br/>
   
 
@@ -35,7 +22,7 @@ Canary tokens, also known as honeytokens, are not new but can be useful as a sou
 
 <!-- faq 3 -->
 <details>
-<summary> ### Study Recommendation  </summary>
+<summary> Study Recommendation  </summary>
 <br/>
   
 
@@ -47,4 +34,25 @@ Canary tokens, also known as honeytokens, are not new but can be useful as a sou
   
 ---
 </details>
+
+
+
+---
+---
+
+
+<!-- faq 1 -->
+<details>
+<summary> What are CanaryTokens ? </summary>
+<br/>
+  
+Canary tokens, also known as honeytokens, are not new but can be useful as a source of information. They can be understood as unique identifiers that can be embedded in different places. If they are touched, an alert is triggered.
+  
+  Example : https://whiteclouddrive.com/generate 
+  
+  
+---
+</details>
+
+
 
