@@ -106,3 +106,34 @@ Ensure a data recovery and business continuity (BC) plan is in place in case of 
 
 The Zero Trust model recognizes that trust is a vulnerability. Once on the network, users – including threat actors and malicious insiders – are free to move laterally and access or exfiltrate whatever data they are not limited to. ... Zero Trust is not about making a system trusted, but instead about eliminating trust.
 
+
+## Contributing
+
+PR's are welcome !
+
+Found a Bug ? Create an Issue.
+
+Chat on [Slack](https://join.slack.com/t/newworkspace-9gk8128/shared_invite/zt-w6xv6tzr-gbHlelZiLQocs_twNmOypg)
+
+<br/>
+
+
+## Like this project ?
+
+Leave a ⭐ If you think this project is cool.
+
+<br/>
+
+
+## Author
+
+* Pawan Rama Mali 
+  * [GitHub](https://github.com/PawanRamaMali) 
+  * [Twitter](https://twitter.com/PawanRamaMali) 
+
+
+## Licence
+
+* [MIT License](LICENSE)
+
+
